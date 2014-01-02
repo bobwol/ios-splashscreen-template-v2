@@ -2,6 +2,7 @@ iOS Splashscreen Template Version 2
 ============================
 
 Designed to help when creating iOS splash or launch screen images.
+
 **The new and improved version 2**
 
 ## How To Use ##
