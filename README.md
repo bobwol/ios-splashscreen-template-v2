@@ -15,4 +15,4 @@ Designed to help when creating iOS splash or launch screen images.
 6. Done
 
 
-Created by Eli Stone [@3li_stone](https://twitter.com/3li_Stone)
+Created by Eli Stone [@3listone](https://twitter.com/3liStone)
