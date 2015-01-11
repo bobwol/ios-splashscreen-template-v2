@@ -7,10 +7,7 @@ Designed to help when creating iOS splash or launch screen images.
 
 **Updated for iPhone 6 & iPhone 6 Plus**
 
-Please note this contains both git contains both the old version:
-*ios-splashscreen-template-V2.psd*
-and the new version **just for iPhones**:
-*ios-iPhone-splashscreen-template.psd*
+Please note this git contains both contains the older version that works for iPads & iPhones as well as the new version which is iPhones only but includes iPhone 6 and 6 Plus.
 
 
 ## How To Use Version 2.1.0 ##
