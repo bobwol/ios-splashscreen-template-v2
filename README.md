@@ -13,10 +13,10 @@ and the new version **just for iPhones**:
 *ios-iPhone-splashscreen-template.psd*
 
 
-## How To Use ##
+## How To Use Version 2.1.0 ##
 *iPhone's Only*
 
-1. Download the **ios-iPhone-splashscreen-template.psd*
+1. Download the **ios-iPhone-splashscreen-template.psd**
 2. Right click the layer "Edit ME!" and click "Edit Contents" *or just double click the layer*
 3. This opens up the **PSB** file where you do all your work in
 4. Save your designs in the **PSB** file
@@ -25,7 +25,7 @@ and the new version **just for iPhones**:
 
 
 
-## How To Use version 2 ##
+### How To Use Version 2 ###
 *Note this if for the old version*
 
 1. Download the **ios-splashscreen-template-V2.psd**
